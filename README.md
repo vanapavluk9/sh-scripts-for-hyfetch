@@ -12,6 +12,6 @@
 
   The deleting hyfetch.json
 
-  #Warning! : Please extract the folder to home path when can't run functions
+  #Warning! : Please extract the folder to home path when can't run functions and rename with defis symbol
 
   #Scripts in up ↑
